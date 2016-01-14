@@ -25,7 +25,7 @@ h1 {
   font-size: 30px;
   padding: 50px;
   text-align: center;
-  height: 100px;
+  height: 200px;
   width: 400px;
 }
 
@@ -33,7 +33,7 @@ h1 {
   position: relative;
   text-align: right;
   font-style: italic;
-  left: 30px;
+  left: 70px;
   padding: 10px;
   height: 70px;
   width: 400px;
