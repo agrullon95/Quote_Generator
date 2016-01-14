@@ -7,4 +7,4 @@ A new quote can be requested with the press of a button and you can also Tweet t
 <br />
 <br />
 <b>Project Link</b><br />
-http://codepen.io/agrullon95/pen/MKmQer
+http://codepen.io/agrullon95/full/MKmQer
