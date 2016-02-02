@@ -1,8 +1,6 @@
-*{
-  font-family: 'Cabin Condensed', 'Open Sans', sans-serif;
-}
 body {
-  background-image: url("../mages/backgroudnd.jpg");
+  font-family: 'Cabin Condensed', 'Open Sans', sans-serif;
+  background-image: url("../images/background.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
